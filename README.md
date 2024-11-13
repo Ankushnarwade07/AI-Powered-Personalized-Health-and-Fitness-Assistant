@@ -1,7 +1,7 @@
-![Health and Fitness Assistant](https://img.freepik.com/free-vector/scientists-doctors-futuristic-laboratory_107791-15922.jpg?ga=GA1.1.1906695768.1722986479&semt=ais_hybrid)
-
-
 # 🇦‌🇮‌-🇵‌🇴‌🇼‌🇪‌🇷‌🇪‌🇩‌ 🇵‌🇪‌🇷‌🇸‌🇴‌🇳‌🇦‌🇱‌🇮‌🇿‌🇪‌🇩‌ 🇭‌🇪‌🇦‌🇱‌🇹‌🇭‌ 🇦‌🇳‌🇩‌ 🇫‌🇮‌🇹‌🇳‌🇪‌🇸‌🇸‌ 🇦‌🇸‌🇸‌🇮‌🇸‌🇹‌🇦‌🇳‌🇹‌
+
+
+![Health and Fitness Assistant](https://img.freepik.com/free-vector/scientists-doctors-futuristic-laboratory_107791-15922.jpg?ga=GA1.1.1906695768.1722986479&semt=ais_hybrid)
 
 ⦿ An intelligent, user-centered health and fitness assistant.  
 ⦿ Provides tailored wellness guidance based on individual user data.  
