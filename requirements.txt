@@ -12,4 +12,4 @@ pyarrow
 streamlit-option-menu
 google-generativeai
 ipython
-pysqlite3
+sqlite3
