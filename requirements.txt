@@ -12,5 +12,5 @@ pyarrow
 streamlit-option-menu
 google-generativeai
 ipython
-pysqlite3-binary
+pysqlite3-binary==0.5.4
 
